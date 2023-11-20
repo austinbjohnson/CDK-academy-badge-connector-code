@@ -1,0 +1,12 @@
+{
+    "name": "cdk-academy-badge",
+    "version": "1.0",
+    "title": "CDK Academy Badge",
+    "description": "Use this demo connector to earn your CDK Academy Badge",
+    "service": {
+        "name": "jMGzaCDbQWNWVR_cdk-academy-badge-service",
+        "version": "1"
+    },
+    "tags": ["service"],
+    "isTrigger": false
+}

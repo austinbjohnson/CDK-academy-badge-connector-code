@@ -1,0 +1,1 @@
+{"version":3,"file":"CdkAcademyBadgeAuth.d.ts","sourceRoot":"","sources":["../src/CdkAcademyBadgeAuth.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,yBAAyB,EAAE,MAAM,sDAAsD,CAAC;AAEjG,MAAM,MAAM,QAAQ,GAAG;IACnB,YAAY,EAAE,MAAM,CAAC;CACxB,CAAA;AAEC,MAAM,MAAM,OAAO,GAAG,EAErB,CAAA;AAED,MAAM,MAAM,mBAAmB,GAAG,yBAAyB,CAAC,QAAQ,EAAE,OAAO,CAAC,CAAA"}
